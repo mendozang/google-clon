@@ -6,7 +6,7 @@ Dentro del desarrollo del proyecto incluiremos notas importantes para ti que me 
 
 ## INDICE
 
-1. [Intro] (url)
+1. [Intro](url)
 2. [Demo]
 3. [Lo que constrirémos]
 4. [Objetivos de aprendizaje]
