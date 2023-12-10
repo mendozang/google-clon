@@ -1,6 +1,6 @@
 # Clon de Google
 
-Proyecto realziado con la intención de aplicar los conocimientos aplicados en el bootcamp de TecnolochicasPro
+Proyecto realizado con la intención de aplicar los conocimientos aplicados en el bootcamp de TecnolochicasPro
 
 ## INDICE
 
